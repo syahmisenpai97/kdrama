@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547851937997",
+    "project_id": "kissasian-sam",
+    "storage_bucket": "kissasian-sam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547851937997:android:dbb4446fa12d0851786184",
+        "android_client_info": {
+          "package_name": "com.example.kdrama_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547851937997-fk992c121f8clqp21rf2rmmbmqavuqlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJODeWxO9BalhQ_6DE-95hNAJXjv3TCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547851937997-fk992c121f8clqp21rf2rmmbmqavuqlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
